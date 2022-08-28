@@ -1,0 +1,7 @@
+﻿  RayTracer.cpp
+D:\DEVPROJ\RayTracer\RayTracer\RayTracer\RayTracer.cpp(21,37): error C2664: 'vec3::vec3(const vec3 &)': cannot convert argument 1 from 'double' to 'const vec3 &'
+D:\DEVPROJ\RayTracer\RayTracer\RayTracer\RayTracer.cpp(21,37): message : Reason: cannot convert from 'double' to 'const vec3'
+D:\DEVPROJ\RayTracer\RayTracer\RayTracer\RayTracer.cpp(21,37): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+D:\DEVPROJ\RayTracer\RayTracer\RayTracer\vec3.h(52,1): message : see declaration of 'vec3::vec3'
+D:\DEVPROJ\RayTracer\RayTracer\RayTracer\RayTracer.cpp(21,67): error C2059: syntax error: 'type'
+D:\DEVPROJ\RayTracer\RayTracer\RayTracer\RayTracer.cpp(21,95): error C2059: syntax error: ')'
