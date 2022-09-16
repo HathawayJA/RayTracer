@@ -4,4 +4,4 @@
 
 This is what it currently makes :|   
 
-![alt text](https://github.com/HathawayJA/RayTraceer/blob/RayTracer/Debug/TestImage.ppm?raw=true)
+![alt text](https://github.com/HathawayJA/RayTraceer/blob/RayTracer/RayTracer/Debug/TestImage.ppm?raw=true)
